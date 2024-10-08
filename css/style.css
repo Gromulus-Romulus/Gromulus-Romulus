@@ -1,0 +1,9 @@
+/* Set the default font to Helvetica */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Make headers bold */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
